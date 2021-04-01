@@ -1,5 +1,5 @@
 # Internet-Access-Cutter
-internet kesici
+![Internet](https://ibb.co/cxgKGYw)
 
 Gerekli;
 ```
