@@ -8,6 +8,10 @@ Linux
 Network
 ```
 
+
+DİKKAT : ARACIN ÇALIŞMA SÜRECİ VE HATALAR DONANIMINIZ VEYA İNTERNETİNİZDEN KAYNAKLI OLABİLİR.
+
+
 # Kullanım;
 
 ```
