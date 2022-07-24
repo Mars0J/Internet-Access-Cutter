@@ -1,4 +1,6 @@
 # Internet-Access-Cutter
+                        ### Bu Yazılım WIFI Kartı  ~ Qualcomm Atheros QCA9377 Wireless Network Adapter ile Denenmiştir. 
+
 <a href="https://ibb.co/cxgKGYw"><img src="https://i.ibb.co/g6jb54d/1617311515104.png" alt="1617311515104" border="0"></a>
 
 Gerekli;
